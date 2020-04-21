@@ -1,0 +1,226 @@
+body {
+    background-color: #F8F8F8;
+}
+
+.daohang {
+    height: 40px;
+    background-color: #F4F4F4;
+}
+
+.daohang-left {
+    float: left;
+    line-height: 40px;
+}
+
+.daohang-right {
+    float: right;
+    line-height: 40px;
+}
+
+.daohang-right a {
+    margin: 0 10px;
+}
+
+.daohang-right a:first-child {
+    color: #FF4040;
+}
+
+.daohang-right a:nth-child(2) {
+    color: #AAB1C4;
+}
+
+.neirong {
+    text-align: center;
+}
+
+.neirong img {
+    margin-left: 260px;
+}
+
+.right {
+    width: 200px;
+    float: right;
+    margin-right: 300px;
+    margin-top: 135px;
+}
+
+.right p {
+    margin-bottom: 20px;
+}
+
+.right a:nth-child(2) {
+    margin-left: 13px;
+    margin-right: 20px;
+    float: left;
+    display: block;
+    width: 50px;
+    height: 20px;
+    color: #fff;
+    background-color: #FF6C6C;
+    line-height: 20px;
+}
+
+.right a:nth-child(3) {
+    float: left;
+    display: block;
+    width: 50px;
+    height: 20px;
+    color: #666666;
+    background-color: #FCFCFC;
+    border: 1px solid #E4E4E4;
+    line-height: 20px;
+}
+
+.cainixihuan .biaoti {
+    text-align: center;
+}
+
+.biaoti p:first-child {
+    color: #FE9F4F;
+    font-size: 20px;
+}
+
+.biaoti p:last-child {
+    color: #9D9D9D;
+}
+
+.cainixihuan .cainixihuan-neirong {
+    padding: 50px;
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+}
+
+.cainixihuan-neirong a {
+    float: left;
+    width: 25%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.cainixihuan-neirong a img {
+    margin: 0;
+}
+
+.cainixihuan-neirong p:nth-child(2) {
+    color: red;
+}
+
+.cainixihuan-neirong p:nth-child(3) {
+    text-align: center;
+    width: 140px;
+    margin-top: 5px;
+    color: #666666;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-left: 65px;
+}
+
+/* 正品保障 */
+.zhengpinbaozhang {
+    float: left;
+    width: 205px;
+    height: 66px;
+    padding: 30px 0;
+}
+
+.zhengpinbaozhang img {
+    float: left;
+    margin-right: 10px;
+}
+
+.zhengpinbaozhang i {
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+.zhengpinbaozhang span {
+    font-size: 14px;
+    color: #A69999;
+}
+
+.zhengpinbaozhang:nth-child(1),
+.zhengpinbaozhang:nth-child(2),
+.zhengpinbaozhang:nth-child(3) {
+    margin-right: 81px;
+}
+
+/* 服务介绍 */
+.fuwujieshao {
+    margin-top: 20px;
+}
+
+.fuwujieshao-neirong {
+    width: 1070px;
+    height: 192px;
+}
+
+.xinshourumen {
+    float: left;
+    width: 195px;
+    height: 192px;
+}
+
+.xinshourumen ul {
+    height: 24px;
+    font-size: 14px;
+    font-weight: 800;
+    color: #666666;
+}
+
+.xinshourumen li {
+    height: 24px;
+}
+
+.xinshourumen li:hover {
+    color: #FE4040;
+}
+
+.APPgengyouhui {
+    width: 90px;
+    height: 120px;
+    float: left;
+    margin-right: 50px;
+}
+
+.APPgengyouhui ul {
+    height: 24px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #666666;
+}
+
+/* 底部 */
+.dibu {
+    height: 155px;
+    width: 1519px;
+}
+
+.neirong {
+    text-align: center;
+}
+
+.neirong span:hover,
+.neirong a:hover,
+.neirong i:hover {
+    color: #FE4040;
+}
+
+.rqi p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.dibu-tupian {
+    text-align: center;
+}
+
+.dibu-tupian img {
+    vertical-align: top;
+    margin: 0 5px;
+}
